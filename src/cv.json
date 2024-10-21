@@ -1,0 +1,118 @@
+{
+  "basics": {
+    "name": "Jordi Joel Ortega Jiménez",
+    "label": "Software Engineer specializing in scalable web solutions and modern web technologies",
+    "image": "/public/jordi.png",
+    "email": "jordi@gmail.com",
+    "phone": "663-108-3522",
+    "url": "https://jordioportfolio.com",
+    "summary": "I'm a Software Engineer driven by a passion for creating robust and scalable applications using modern technologies. My current focus is on developing efficient, high-performance solutions, with a commitment to delivering clean, maintainable code that meets business goals and user needs.",
+    "location": {
+      "address": "Priv. Choui 26411-45",
+      "postalCode": "22253",
+      "city": "Tijuana",
+      "countryCode": "MX",
+      "region": "Baja California"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Jordi Ortega",
+        "url": "https://www.linkedIn.com/JordiOrtega/"
+      },
+      {
+        "network": "GitHub",
+        "username": "zJordiOrtega",
+        "url": "https://github.com/zJordiOrtega"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Cinepolis",
+      "position": "Customer Service",
+      "startDate": "2018-08-01",
+      "endDate": "2022-03-01",
+      "summary": "Provided friendly and attentive customer service at the register, handling payments and orders quickly. Was responsible for preparing food and beverages, ensuring customer satisfaction. Maintained a clean and organized area, creating a pleasant and safe environment for everyone."
+    },
+    {
+      "name": "Petco",
+      "position": "Sales Associate",
+      "startDate": "2022-12-01",
+      "endDate": "2023-12-02",
+      "summary": "Provided personalized assistance to customers in the store, helping them find products suited to their needs. Fostered positive relationships with customers, promoting brand loyalty and increasing sales through effective recommendations."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Tijuana",
+      "area": "Software Engineering",
+      "startDate": "2021-28-08",
+      "endDate": "Present",
+      "highlights": "Solana Hyperdrive TECTIJUANA Hackathon 2023"
+    }
+  ],
+  "certificates": [{}],
+  "skills": [
+    {
+      "name": "Go"
+    },
+    {
+      "name": "Java"
+    },
+    {
+      "name": "Spring Boot"
+    },
+    {
+      "name": "C#"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "Astro"
+    },
+    {
+      "name": "Tailwind"
+    },
+    {
+      "name": "JavaScript"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [{}],
+  "projects": [
+    {
+      "name": "Snippetbox",
+      "isActive": true,
+      "description": "Snippetbox is a Go-based app for managing text snippets with user authentication, RESTful routing, and MySQL for data storage.",
+      "highlights": ["Go", "HTML", "CSS", "Mysql"],
+      "url": "https://Snippetbox.com/"
+    },
+    {
+      "name": "Portfolio",
+      "isActive": true,
+      "description": "Responsive portfolio website showcasing personal projects and skills, fast static site generation.",
+      "highlights": ["Astro", "Tailwind", "JavaScript"],
+      "url": "https://portfolio.com/"
+    }
+  ]
+}
